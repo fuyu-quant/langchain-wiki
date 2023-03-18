@@ -1,6 +1,7 @@
-version: '3'
+version: '3.9'
 services:
   notebook:
+    container_name: langchain
     image: jupyter/datascience-notebook
     ports:
       - '8888:8888'
