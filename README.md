@@ -5,6 +5,11 @@ Introduce various applications using LangChain
 * [Basic docker operations](#basic-docker-operations)
 * [API](#api)
 * [LangChain](#langchain)
+    * [Models](#models)
+    * [Chat Model](#chat-model)
+    * [Q&A](#qa)
+    * [Summary](#summary)
+    * [Utility](#utility)
 * [Reference](#reference) 
 
 
@@ -27,13 +32,37 @@ HUGGINGFACEHUB_API_TOKEN=""
 
 
 ## LangChain
-* Chat Model
-    * [base_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/base_chat_model.ipynb)  
-    基本的なchat modelの構築
-    * [chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
-    応用的なchat modelの構築
-* Q&A
-* summary
+
+
+### Models
+* [models](https://github.com/fuyu-quant/langchain/blob/main/examples/models.ipynb)
+
+
+
+### Chat Model
+* [base_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/base_chat_model.ipynb)  
+基本的なchat modelの構築
+* [chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
+応用的なchat modelの構築
+
+
+
+### Q&A
+* [QA_for_document](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document.ipynb)
+* [QA_for_document_with_source](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document_with_source.ipynb)
+
+
+
+### Summary
+* [text_summary](https://github.com/fuyu-quant/langchain/blob/main/examples/text_summary.ipynb)
+
+
+
+### Utility
+* [LLMMathChain](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMMathChain.ipynb)
+* [PALChain](https://github.com/fuyu-quant/langchain/blob/main/examples/PALChain.ipynb)
+
+
 
 ## Reference
 * https://zenn.dev/hamakou108/articles/ddddf1aa5a6100
