@@ -1,0 +1,11 @@
+version: '3'
+services:
+  notebook:
+    image: jupyter/datascience-notebook
+    ports:
+      - '8888:8888'
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    volumes:
+      - /Users/tanakatouma/vscode/langchain-applications/:/home/jovyan/langchain-applications/
+    command: start-notebook.sh --NotebookApp.token=''
