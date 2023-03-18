@@ -6,6 +6,7 @@ Introduce various applications using LangChain
 * [API](#api)
 * [LangChain](#langchain)
     * [Models](#models)
+    * [Text Generation](#text-generation)
     * [Chat Model](#chat-model)
     * [Q&A](#qa)
     * [Summary](#summary)
@@ -37,8 +38,10 @@ HUGGINGFACEHUB_API_TOKEN=""
 ### Models
 * [models](https://github.com/fuyu-quant/langchain/blob/main/examples/models.ipynb)
 
-### Text generation
-* [SequentialChain]()
+### Text Generation
+* [SequentialChain](https://github.com/fuyu-quant/langchain/blob/main/examples/SequentialChain.ipynb)
+* [QA_generation](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_generation.ipynb)
+
 
 ### Chat Model
 * [base_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/base_chat_model.ipynb)  
