@@ -32,7 +32,8 @@ HUGGINGFACEHUB_API_TOKEN=""
     基本的なchat modelの構築
     * [chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
     応用的なchat modelの構築
-
+* Q&A
+* summary
 
 ## Reference
 * https://zenn.dev/hamakou108/articles/ddddf1aa5a6100
