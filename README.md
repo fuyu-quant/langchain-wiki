@@ -37,7 +37,8 @@ HUGGINGFACEHUB_API_TOKEN=""
 ### Models
 * [models](https://github.com/fuyu-quant/langchain/blob/main/examples/models.ipynb)
 
-
+### Text generation
+* [SequentialChain]()
 
 ### Chat Model
 * [base_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/base_chat_model.ipynb)  
