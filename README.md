@@ -23,6 +23,7 @@ HUGGINGFACEHUB_API_TOKEN=""
 * [OpenAI](https://platform.openai.com/account/api-keys)
 * [Google Search API](https://serpapi.com/dashboard)
 * [Hugging Face API](https://huggingface.co/settings/tokens)
+* [CohereAI API](https://dashboard.cohere.ai/api-keys)
 
 
 ## LangChain
