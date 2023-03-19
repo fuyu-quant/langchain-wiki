@@ -57,6 +57,8 @@ source .env
 * [search_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
 検索により情報を調べて回答するchat modelの構築
 
+* [conversation_chat_model]()
+
 * [customize_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
 chat modelのさまざまなカスタマイズ方法
 
