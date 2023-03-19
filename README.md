@@ -24,6 +24,8 @@ OPENAI_API_KEY=""
 SERPAPI_API_KEY=""
 HUGGINGFACEHUB_API_TOKEN=""
 
+# 上記の内容を.envファイルに書き込み以下を実行
+source .env
 ```
 
 * [OpenAI](https://platform.openai.com/account/api-keys)
