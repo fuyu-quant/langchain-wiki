@@ -72,6 +72,10 @@ chat modelのさまざまなカスタマイズ方法
 ### Utility
 * [LLMMathChain](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMMathChain.ipynb)
 * [PALChain](https://github.com/fuyu-quant/langchain/blob/main/examples/PALChain.ipynb)
+* [LLMBashChaion]()
+* [LLMCheckerChain]()
+* [LLMRequestsChain]()
+* [OpenAIModerationChain]()
 
 
 
