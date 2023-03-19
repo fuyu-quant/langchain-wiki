@@ -45,16 +45,16 @@ HUGGINGFACEHUB_API_TOKEN=""
 
 ### Chat Model
 * [simple_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/simple_chat_model.ipynb)  
-単純なchat model
+単純なchat model，何かになりきって回答することもできる
 
-* [role_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/role_chat_model.ipynb)  
-役になりきって応答するchat model
-
-* [search_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
-検索により情報を調べて回答するchat modelの構築
+* [translate_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/translate_chat_model.ipynb)  
+翻訳するchat modelの構築
 
 * [search_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
 検索により情報を調べて回答するchat modelの構築
+
+* [customize_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/chat_model.ipynb)  
+chat modelのさまざまなカスタマイズ方法
 
 
 
