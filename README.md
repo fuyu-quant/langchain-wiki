@@ -30,6 +30,8 @@ source .env
 
 * [OpenAI](https://platform.openai.com/account/api-keys)
 * [Google Search API](https://serpapi.com/dashboard)
+* [News API](https://newsapi.org/docs/get-started)
+* [The Movie Database API](https://developers.themoviedb.org/3/getting-started/authentication)
 * [Hugging Face API](https://huggingface.co/settings/tokens)
 * [CohereAI API](https://dashboard.cohere.ai/api-keys)
 
