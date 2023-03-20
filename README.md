@@ -40,41 +40,41 @@ source .env
 
 
 ### Models
-* [Models](https://github.com/fuyu-quant/langchain/blob/main/examples/models.ipynb)
+* [OpenAI Models](https://github.com/fuyu-quant/langchain/blob/main/examples/openai_models.ipynb)
 
 * [Model Comparison](https://github.com/fuyu-quant/langchain/blob/main/examples/model_comparison.ipynb)
 
 ### Text Generation
 * [SequentialChain](https://github.com/fuyu-quant/langchain/blob/main/examples/SequentialChain.ipynb)
-* [QA_generation](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_generation.ipynb)
+* [QA Generation](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_generation.ipynb)
 
 
 ### Chat Model
-* [simple_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/simple_chat_model.ipynb)  
+* [simple chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/simple_chat_model.ipynb)  
 単純なchat model，何かになりきって回答することもできる
 
-* [translate_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/translate_chat_model.ipynb)  
+* [translate chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/translate_chat_model.ipynb)  
 翻訳するchat modelの構築
 
-* [search_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/search_chat_model.ipynb)  
+* [search chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/search_chat_model.ipynb)  
 検索により情報を調べて回答するchat modelの構築
 
-* [conversation_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/conversation_chat_model.ipynb)  
+* [conversation chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/conversation_chat_model.ipynb)  
 会話のためのchat modelの構築，記憶の保持の方法なども設定できる
 
-* [customize_chat_model](https://github.com/fuyu-quant/langchain/blob/main/examples/customize_chat_model.ipynb)  
+* [customize chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/customize_chat_model.ipynb)  
 chat modelのさまざまなカスタマイズ方法
 
 
 
 ### Q&A
-* [QA_for_document](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document.ipynb)
-* [QA_for_document_with_source](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document_with_source.ipynb)
+* [QA for document](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document.ipynb)
+* [QA for document with source](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document_with_source.ipynb)
 
 
 
 ### Summary
-* [text_summary](https://github.com/fuyu-quant/langchain/blob/main/examples/text_summary.ipynb)
+* [text summary](https://github.com/fuyu-quant/langchain/blob/main/examples/text_summary.ipynb)
 
 
 
