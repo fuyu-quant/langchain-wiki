@@ -42,6 +42,8 @@ source .env
 ### Models
 * [models](https://github.com/fuyu-quant/langchain/blob/main/examples/models.ipynb)
 
+* [Model Comparison](https://github.com/fuyu-quant/langchain/blob/main/examples/model_comparison.ipynb)
+
 ### Text Generation
 * [SequentialChain](https://github.com/fuyu-quant/langchain/blob/main/examples/SequentialChain.ipynb)
 * [QA_generation](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_generation.ipynb)
