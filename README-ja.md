@@ -12,7 +12,7 @@ Introduce various applications using LangChain
     * [Agents](#agents)
     * [Others](#others)
 * [Use case](#use-case)
-    * [Models](#models)
+    * [Model Comparison](#model-comparison)
     * [Text Generation](#text-generation)
     * [Chat Model](#chat-model)
     * [Q&A](#qa)
@@ -44,35 +44,48 @@ source .env
 
 
 ## LangChain
+
+### Models
 * LLMs
-    * [OpenAI]()
+    * [OpenAI](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/openai_models.ipynb)
     * [GPT4all](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/GPT4all.ipynb)
     * [llama-cpp](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/llama-cpp.ipynb)
     * [RWKV-4](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/RWKV.ipynb)
-### text-embedding-models
 
+* text-embedding-models
+    * [Aleph Alpha](https://github.com/fuyu-quant/langchain/blob/main/models/text-embedding-models/aleph_alpha.ipynb)
+    * [Jina](https://github.com/fuyu-quant/langchain/blob/main/models/text-embedding-models/jina.ipynb)
 
-### Models
 
 ### Prompts
 
 ### Indexes
+* document loader
+    * [Email](https://github.com/fuyu-quant/langchain/blob/main/indexes/documetn_loaders/email.ipynb)
+    * [URL](https://github.com/fuyu-quant/langchain/blob/main/indexes/documetn_loaders/url.ipynb)
+
+* retrievers
+    * [ElasticSearch BM25](https://github.com/fuyu-quant/langchain/blob/main/indexes/retrievers/ElasticSearch-BM25.ipynb)
+    * [TF-IDF Retriever](https://github.com/fuyu-quant/langchain/blob/main/indexes/retrievers/tf-idf_retriever.ipynb)
+
+* vectorstores
+    * [Qdrant](https://github.com/fuyu-quant/langchain/blob/main/indexes/vectorstores/qdrant.ipynb)
+    * [Zilliz](https://github.com/fuyu-quant/langchain/blob/main/indexes/vectorstores/zilliz.ipynb)
 
 ### Memory
+* [Custom Agent with Tool Retrieval](https://github.com/fuyu-quant/langchain/blob/main/Agents/custom_agent_with_tool_retrieval.ipynb)
+* [Custom LLM Agent](https://github.com/fuyu-quant/langchain/blob/main/Agents/custom_llm_agent.ipynb)
 
 ### Chains
 
 ### Agents
-
-### others
-
+* [Custom Agent with Tool Retrieval](https://github.com/fuyu-quant/langchain/blob/main/Agents/custom_agent_with_tool_retrieval.ipynb)
+* [Custom LLM Agent](https://github.com/fuyu-quant/langchain/blob/main/Agents/custom_llm_agent.ipynb)
 
 
 ## Use case
 
-### Models
-* [OpenAI Models](https://github.com/fuyu-quant/langchain/blob/main/examples/openai_models.ipynb)
-
+### Model Comparison
 * [Model Comparison](https://github.com/fuyu-quant/langchain/blob/main/examples/model_comparison.ipynb)
 
 ### Text Generation
@@ -97,7 +110,6 @@ source .env
 chat modelのさまざまなカスタマイズ方法
 
 
-
 ### Q&A
 * [QA for document](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document.ipynb)
 * [QA for document with source](https://github.com/fuyu-quant/langchain/blob/main/examples/QA_for_document_with_source.ipynb)
@@ -117,5 +129,6 @@ chat modelのさまざまなカスタマイズ方法
 * [LLMRequestsChain](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMRequestsChain.ipynb)
 * [OpenAIModerationChain](https://github.com/fuyu-quant/langchain/blob/main/examples/OpenAIModerationChain.ipynb)
 
+
 ## Reference
-* https://zenn.dev/hamakou108/articles/ddddf1aa5a6100
+* https://python.langchain.com/en/latest/index.html
