@@ -2,9 +2,16 @@
 Introduce various applications using LangChain
 
 ## Contents
-* [Basic docker operations](#basic-docker-operations)
 * [API](#api)
 * [LangChain](#langchain)
+    * [Models](#models)
+    * [Promts](#prompts)
+    * [Indexes](#indexes)
+    * [Memory](#memory)
+    * [Chains](#chains)
+    * [Agents](#agents)
+    * [Others](#others)
+* [Use case](#use-case)
     * [Models](#models)
     * [Text Generation](#text-generation)
     * [Chat Model](#chat-model)
@@ -14,7 +21,6 @@ Introduce various applications using LangChain
 * [Reference](#reference) 
 
 
-## [Basic docker operation](https://github.com/fuyu-quant/dockerfile-for-data-scientists)
 
 ## How to set up the API
 Set the following environment variables
@@ -36,42 +42,33 @@ source .env
 * [CohereAI API](https://dashboard.cohere.ai/api-keys)
 
 
+
 ## LangChain
+* LLMs
+    * [OpenAI]()
+    * [GPT4all](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/GPT4all.ipynb)
+    * [llama-cpp](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/llama-cpp.ipynb)
+    * [RWKV-4](https://github.com/fuyu-quant/langchain/blob/main/models/LLMs/RWKV.ipynb)
+### text-embedding-models
 
 
 ### Models
-* 
 
 ### Prompts
 
-
-
 ### Indexes
-
-
-
 
 ### Memory
 
+### Chains
 
-
-
-### Summary
-* [text summary](https://github.com/fuyu-quant/langchain/blob/main/examples/text_summary.ipynb)
-
-
-
-### Utility
-* [LLMMathChain](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMMathChain.ipynb)
-* [PALChain](https://github.com/fuyu-quant/langchain/blob/main/examples/PALChain.ipynb)
-* [LLMBashChaion](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMBashChain.ipynb)
-* [LLMCheckerChain](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMCheckerChain.ipynb)
-* [LLMRequestsChain](https://github.com/fuyu-quant/langchain/blob/main/examples/LLMRequestsChain.ipynb)
-* [OpenAIModerationChain](https://github.com/fuyu-quant/langchain/blob/main/examples/OpenAIModerationChain.ipynb)
-
+### Agents
 
 ### others
 
+
+
+## Use case
 
 ### Models
 * [OpenAI Models](https://github.com/fuyu-quant/langchain/blob/main/examples/openai_models.ipynb)
