@@ -10,7 +10,6 @@ Introduce various applications using LangChain
     * [Memory](#memory)
     * [Chains](#chains)
     * [Agents](#agents)
-    * [Others](#others)
 * [Use case](#use-case)
     * [Model Comparison](#model-comparison)
     * [Text Generation](#text-generation)
