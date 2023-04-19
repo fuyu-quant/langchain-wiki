@@ -95,19 +95,19 @@ source .env
 
 ### Chat Model
 * [simple chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/simple_chat_model.ipynb)  
-単純なchat model，何かになりきって回答することもできる
+Simple chat model, you can even pretend to be something else and answer the questions.
 
 * [translate chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/translate_chat_model.ipynb)  
-翻訳するchat modelの構築
+Translate chat model
 
 * [search chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/search_chat_model.ipynb)  
-検索により情報を調べて回答するchat modelの構築
+Searching for information and answering questions through search chat model
 
 * [conversation chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/conversation_chat_model.ipynb)  
-会話のためのchat modelの構築，記憶の保持の方法なども設定できる
+It is also possible to set up chat models for conversations, memory retention methods, etc.
 
 * [customize chat model](https://github.com/fuyu-quant/langchain/blob/main/examples/customize_chat_model.ipynb)  
-chat modelのさまざまなカスタマイズ方法
+Different ways to customize the chat model
 
 
 ### Q&A
