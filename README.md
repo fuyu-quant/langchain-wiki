@@ -28,6 +28,7 @@ LANGCHAIN_HANDLER="langchain"
 OPENAI_API_KEY=""
 SERPAPI_API_KEY=""
 HUGGINGFACEHUB_API_TOKEN=""
+GPLACES_API_KEY=""
 
 # 上記の内容を.envファイルに書き込み以下を実行
 source .env
@@ -39,6 +40,7 @@ source .env
 * [The Movie Database API](https://developers.themoviedb.org/3/getting-started/authentication)
 * [Hugging Face API](https://huggingface.co/settings/tokens)
 * [CohereAI API](https://dashboard.cohere.ai/api-keys)
+* [Google Maps API](https://console.cloud.google.com/google/maps-apis)
 
 
 
