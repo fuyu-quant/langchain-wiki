@@ -1,1 +1,3 @@
 google-search-results
+langchain
+openai
